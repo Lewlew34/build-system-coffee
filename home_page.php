@@ -72,26 +72,26 @@
         <!-- PRODUCT GRID -->
         <div class="products">
             <div class="card">
-                <div class="img"><img src="congthuc_anh/hinh_mon_nuoc/bac_xiu.png" alt="mo ta anh"></div>
-                <h4>Espresso Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\cafe_den_da.png" alt="mo ta anh"></div>
+                <h4>Cà Phê Đen Đá</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Đá</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\tra_dao_cam_sa.png" alt="mo ta anh"></div>
+                <h4>Trà Đào Cam Sả</h4>
                 <p class="price">49.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Americano Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\banh_croissant.png" alt="mo ta anh"></div>
+                <h4>Bánh Croissant</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Latte Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\nuoc_cam_ep.png" alt="mo ta anh"></div>
+                <h4>Nước ép cam tươi</h4>
                 <p class="price">59.000 đ</p>
             </div>
         </div>
@@ -106,12 +106,10 @@
     <aside class="sidebar">
         <h2>CÀ PHÊ</h2> 
         <ul>
-            <li>Espresso</li>
-            <li>Americano</li>
-            <li>Latte</li>
-            <li>Frappe - Frappe</li>
-            <li>"Phin" Việt Nam</li>
-            <li>Cold Brew</li>
+            <li>Cà Phê Đen Đá</li>
+            <li>Cà Phê Sữa Đá</li>
+            <li>Bạc Xỉu</li>
+            <li>Espresso Nóng</li>
         </ul>
     </aside>
 
@@ -122,26 +120,26 @@
         <!-- PRODUCT GRID -->
         <div class="products">
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\cafe_den_da.png" alt="mo ta anh"></div>
+                <h4>Cà Phê Đen Đá</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Đá</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\cafe_sua_da.png" alt="mo ta anh"></div>
+                <h4>Cà Phê Sữa Đá</h4>
                 <p class="price">49.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Americano Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\bac_xiu.png" alt="mo ta anh"></div>
+                <h4>Bạc Xỉu</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Latte Nóng</h4>
+                <div class="img"><img src="./congthuc_anh/hinh_mon_nuoc/espresso_nong.png" alt="mo ta anh"></div>
+                <h4>Espresso Nóng</h4>
                 <p class="price">59.000 đ</p>
             </div>
         </div>
@@ -156,9 +154,10 @@
     <aside class="sidebar">
         <h2>TRÀ</h2>
         <ul>
-            <li>Trà xanh</li>
-            <li>Trà thảo mộc</li>
-            <li>Trà đen</li>
+            <li>Trà Đào Cam Sả</li>
+            <li>Trà Vải</li>
+            <li>Trà Sữa Trân Châu</li>
+            <li>Trà Sữa Matcha</li>
         </ul>
     </aside>
 
@@ -169,26 +168,26 @@
         <!-- PRODUCT GRID -->
         <div class="products">
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\tra_dao_cam_sa.png" alt="mô tả ảnh"></div>
+                <h4>Trà Đào Cam Sả</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Đá</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\tra_vai.png" alt="mô tả ảnh"></div>
+                <h4>Trà Vải</h4>
                 <p class="price">49.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Americano Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\tra_sua_tran_chau.png" alt="mô tả ảnh"></div>
+                <h4>Trà Sữa Trân Châu</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Latte Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\tra_sua_matcha.png" alt="mô tả ảnh"></div>
+                <h4>Trà Sữa Matcha</h4>
                 <p class="price">59.000 đ</p>
             </div>
         </div>
@@ -204,9 +203,10 @@
     <aside class="sidebar">
         <h2>ĐỒ ĂN</h2>
         <ul>
-            <li>Bánh croissant</li>
-            <li>Bánh ngọt</li>
+            <li>Bánh Croissant</li>
+            <li>Bánh Quy</li>
             <li>Sandwich</li>
+            <li>Tiramisu</li>
         </ul>
     </aside>
 
@@ -217,26 +217,26 @@
         <!-- PRODUCT GRID -->
         <div class="products">
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\banh_croissant.png" alt="mô tả ảnh"></div>
+                <h4>Bánh Croissant</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Đá</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\banh_quy.png" alt="mô tả ảnh"></div>
+                <h4>Bánh Quy</h4>
                 <p class="price">49.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Americano Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\banh_sandwich.png" alt="mô tả ảnh"></div>
+                <h4>Sandwich</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Latte Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\banh_tiramisu.png" alt="mô tả ảnh"></div>
+                <h4>Tiramisu</h4>
                 <p class="price">59.000 đ</p>
             </div>
         </div>
@@ -253,8 +253,9 @@
         <h2>KHÁC</h2>
         <ul>
             <li>Nước ép cam tươi</li>
-            <li>Nước ép táo</li>
-            <li>Nước ép dứa (thơm)</li>
+            <li>Nước chanh dây</li>
+            <li>Soda chanh</li>
+            <li>Sinh tố dâu</li>
         </ul>
     </aside>
 
@@ -265,26 +266,26 @@
         <!-- PRODUCT GRID -->
         <div class="products">
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\nuoc_cam_ep.png" alt="mô tả ảnh"></div>
+                <h4>Nước ép cam tươi</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Espresso Đá</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\nuoc_chanh_day.png" alt="mô tả ảnh"></div>
+                <h4>Nước chanh dây</h4>
                 <p class="price">49.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Americano Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\soda_chanh.png" alt="mô tả ảnh"></div>
+                <h4>Soda chanh</h4>
                 <p class="price">45.000 đ</p>
             </div>
 
             <div class="card">
-                <div class="img"></div>
-                <h4>Latte Nóng</h4>
+                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\sinh_to_dau.png" alt="mô tả ảnh"></div>
+                <h4>Sinh tố dâu</h4>
                 <p class="price">59.000 đ</p>
             </div>
         </div>
