@@ -9,14 +9,14 @@
 </head>
 <body>
     <div class="wrapper">
-        <form action="../login/forgot_pass.html" method="POST">
+        <form action="./forgot_pass.php" method="POST">
             <h1>Quên mật khẩu</h1>
             <div class="login">
                 <div class="input-box">
                     <input type="email" name="email" placeholder="Nhập email" required>
                 </div>
                 <button type="submit" class="btn">Tiếp tục</button>
-                <div class="register-link"><p><a href="../login/login_staff.html">Trang chủ</a></p></div>
+                <div class="register-link"><p><a href="./login_staff.php">Trang chủ</a></p></div>
             </div>
         </form>
     </div>

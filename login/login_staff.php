@@ -11,7 +11,7 @@
         
         <div class="login">
             
-        <h3><span class="choose active"><a href="login_staff.html">Staff</a></span> | <span class="chosse"><a href="login_manager.html">Manager</a></span></h3>
+        <h3><span class="choose active"><a href="./login_staff.php">Staff</a></span> | <span class="chosse"><a href="./login_manager.php">Manager</a></span></h3>
 
             <div class="input">
                 <input type="text" class="name" id="user" placeholder="username" required>
@@ -23,7 +23,7 @@
 
             <div class="remember-forget">
                 <label for=""><input type="checkbox">Remember password</label>
-                <a href="../login/forgot_pass.html">Forgot password?</a>
+                <a href="./forgot_pass.php">Forgot password?</a>
             </div>
 
             <button type="submit" class="btn" name="submit">Login</button>
