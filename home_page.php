@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ĐẮNG CAFE</title>
-    <link rel="stylesheet" href="./assets/css/home_page.css">
+    <link rel="stylesheet" href="../build system-coffee/assets/css/home_page.css">
     <link rel="stylesheet" href="./assets/font/themify-icons/themify-icons.css">    
     <link rel="icon" href="./assets/img/icon_web.png" type="image/x-icon" />
 </head>
