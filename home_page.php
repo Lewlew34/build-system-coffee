@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ĐẮNG CAFE</title>
-    <link rel="stylesheet" href="../build system-coffee/assets/css/home_page.css">
+    <link rel="stylesheet" href="../build-system-coffee/assets/css/home_page.css">
     <link rel="stylesheet" href="./assets/font/themify-icons/themify-icons.css">    
     <link rel="icon" href="./assets/img/icon_web.png" type="image/x-icon" />
 </head>
@@ -71,11 +71,17 @@
 
         <!-- PRODUCT GRID -->
         <div class="products">
-            <div class="card">
-                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\cafe_den_da.png" alt="mo ta anh"></div>
-                <h4>Cà Phê Đen Đá</h4>
-                <p class="price">45.000 đ</p>
-            </div>
+            <a href="#" class="openLink"
+                data-name="Cà Phê Đen Đá"
+                data-price="45.000 đ"
+                data-img="./congthuc_anh/hinh_mon_nuoc/cafe_den_da.png"
+                data-desc="Cà phê đen đá đậm vị, ít/không đường tùy chọn.">
+                <div class="card">
+                    <div class="img"><img src="./congthuc_anh/hinh_mon_nuoc/cafe_den_da.png" alt=""></div>
+                    <h4>Cà Phê Đen Đá</h4>
+                    <p class="price">45.000 đ</p>
+                </div>
+            </a>
 
             <div class="card">
                 <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\tra_dao_cam_sa.png" alt="mo ta anh"></div>
@@ -131,11 +137,17 @@
                 <p class="price">49.000 đ</p>
             </div>
 
-            <div class="card">
-                <div class="img"><img src=".\congthuc_anh\hinh_mon_nuoc\bac_xiu.png" alt="mo ta anh"></div>
-                <h4>Bạc Xỉu</h4>
-                <p class="price">45.000 đ</p>
-            </div>
+            <a href="#" class="openLink"
+                data-name="Bạc Xỉu"
+                data-price="50.000 đ"
+                data-img="./congthuc_anh/hinh_mon_nuoc/bac_xiu.png"
+                data-desc="Sữa nhiều, cà phê ít, béo và thơm.">
+                <div class="card">
+                    <div class="img"><img src="./congthuc_anh/hinh_mon_nuoc/bac_xiu.png" alt=""></div>
+                    <h4>Bạc Xỉu</h4>
+                    <p class="price">45.000 đ</p>
+                </div>
+            </a>
 
             <div class="card">
                 <div class="img"><img src="./congthuc_anh/hinh_mon_nuoc/espresso_nong.png" alt="mo ta anh"></div>
@@ -291,7 +303,18 @@
         </div>
 
     </section>
-
+    <div id="modal" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,.4);
+  align-items:center; justify-content:center;">
+        <div style="background:#fff; padding:16px; border-radius:12px; min-width:280px; max-width:420px;">
+            <img id="mImg" style="width:100%; max-height:220px; object-fit:contain; border-radius:10px;" />
+            <h3 id="mName"></h3>
+            <p id="mPrice" style="font-weight:600;"></p>
+            <p id="mDesc"></p>
+            <input type="text">
+            <button id="closeBtn">Đóng</button>
+        </div>
+    </div>
+<script src="./assets/js/dish_description.js"></script>
 </main>
 </body>
 </html>
