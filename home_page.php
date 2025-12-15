@@ -72,7 +72,7 @@
         <!-- PRODUCT GRID -->
         <div class="products">
             <div class="card">
-                <div class="img"></div>
+                <div class="img"><img src="congthuc_anh/hinh_mon_nuoc/bac_xiu.png" alt="mo ta anh"></div>
                 <h4>Espresso Nóng</h4>
                 <p class="price">45.000 đ</p>
             </div>
